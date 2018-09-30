@@ -1,5 +1,4 @@
 # reach
-in progress migration from gitlab
 
 Central repo for all things Reach
 
